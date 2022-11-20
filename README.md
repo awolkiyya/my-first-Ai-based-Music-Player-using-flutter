@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-<img src="assets/music.png"/>
+<img src="assets/music.PNG"/>

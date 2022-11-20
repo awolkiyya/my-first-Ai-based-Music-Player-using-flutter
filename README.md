@@ -4,5 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-The One Screen Sample of the Projects
+<h1>The One Screen Sample of the Projects</h1>
+<br/>
 <img src="assets/music.PNG"/>
